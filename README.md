@@ -11,6 +11,9 @@ I like exploring new technologies, building small projects, and occassionally jo
 - 📫 How to reach me: [email](guptatushar020202@gmail.com)
 - ⚡ Fun fact: I like anime.
 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet&label=PROFILE+VIEWS&style=plastic)
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tusharr08&show_icons=true&theme=tokyonight))](https://github.com/anuraghazra/github-readme-stats)
 
 

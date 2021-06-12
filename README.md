@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to meet you.</h1>
+
 
 I like exploring new technologies, building small projects, and occassionally joining hackathons. ✨
 <!-- **Tusharr08/Tusharr08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->

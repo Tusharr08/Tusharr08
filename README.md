@@ -30,3 +30,5 @@ I like exploring new technologies, building small projects, and occassionally jo
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tusharr08&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com) 

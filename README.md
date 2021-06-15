@@ -9,7 +9,6 @@ I like exploring new technologies, building small projects, and occassionally jo
 - 👯 I’m looking forward to collaborate with lots of devlopers.
 - 🤔 I’m looking for help with improving my dev skills.
 - 💬 Ask me about anything at [here](https://github.com/Tusharr08/Tusharr08/issues) !
-- 📫 How to reach me: [email](guptatushar020202@gmail.com)
 - ⚡ Fun fact: I like anime.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/tushargupta08)

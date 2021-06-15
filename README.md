@@ -19,7 +19,7 @@ I like exploring new technologies, building small projects, and occassionally jo
 
 <!--[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://iampavangandhi.github.io/)-->
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet&label=PROFILE+VIEWS&style=plastic)
+![](https://komarev.com/ghpvc/?username=Tusharr08&color=blueviolet&label=PROFILE+VIEWS&style=plastic)
 
 
 

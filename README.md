@@ -26,13 +26,13 @@ I like exploring new technologies, building small projects, and occassionally jo
 
 
 
-<p align=center><img align="center" src=https://github-readme-stats.vercel.app/api?username=Tusharr08&show_icons=true&theme=tokyonight /></p>
+<p align=left><img align="center" src=https://github-readme-stats.vercel.app/api?username=Tusharr08&show_icons=true&theme=tokyonight /></p>
 
-<p align=center><img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Tusharr08&layout=compact&theme=tokyonight /></p>
+<p align=left><img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Tusharr08&layout=compact&theme=tokyonight /></p>
 
-<p align=center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tusharr08&" /></p>
+<p align=left><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tusharr08&" /></p>
 
 
 <!--![Tusharr's github activity graph](https://activity-graph.herokuapp.com/graph?username=Tusharr08&theme=dracula)-->
 
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com) 
+<p align=center><img align="center" src=https://forthebadge.com/images/badges/powered-by-coffee.svg /></p>

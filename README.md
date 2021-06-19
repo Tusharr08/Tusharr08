@@ -28,7 +28,9 @@ I like exploring new technologies, building small projects, and occassionally jo
 [![Tusharr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tusharr08&show_icons=true&theme=tokyonight))](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Tusharr's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tusharr08&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Tusharr's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tusharr08&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)-->
+<p align=center><img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Tusharr08&layout=compact&theme=tokyonight /></p>
+<p align=center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tusharr08&" /></p>
 
 
 ![Tusharr's github activity graph](https://activity-graph.herokuapp.com/graph?username=Tusharr08&theme=dracula)

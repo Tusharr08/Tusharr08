@@ -30,4 +30,7 @@ I like exploring new technologies, building small projects, and occassionally jo
 
 [![Tusharr's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tusharr08&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+
+![Tusharr's github activity graph](https://activity-graph.herokuapp.com/graph?username=Tusharr08&theme=dracula)
+
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com) 

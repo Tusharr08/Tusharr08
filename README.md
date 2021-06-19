@@ -28,6 +28,6 @@ I like exploring new technologies, building small projects, and occassionally jo
 [![Tusharr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tusharr08&show_icons=true&theme=tokyonight))](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Tusharr's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tusharr08&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Tusharr's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tusharr08&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com) 

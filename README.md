@@ -22,11 +22,11 @@ I like exploring new technologies, building small projects, and occassionally jo
 
 
 
-  <img align="middle" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<!--  <img align="middle" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />-->
 
 
-[![Tusharr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tusharr08&show_icons=true&theme=tokyonight))](https://github.com/anuraghazra/github-readme-stats)
-
+<!--[![Tusharr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tusharr08&show_icons=true&theme=tokyonight))](https://github.com/anuraghazra/github-readme-stats) -->
+<p align=center><img align="center" src=https://github-readme-stats.vercel.app/api?username=Tusharr08&show_icons=true&theme=tokyonight /></p>
 
 <!--[![Tusharr's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tusharr08&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)-->
 <p align=center><img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Tusharr08&layout=compact&theme=tokyonight /></p>

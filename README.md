@@ -23,17 +23,11 @@ I’m passionate about exploring new data technologies, building data pipelines,
 ---
 
 ## 🛠️ Technologies & Tools
-- **Programming Languages**: Python, SQL, Java
-- **Data Technologies**: Apache Spark, Hadoop, Airflow
-- **Databases**: PostgreSQL, MySQL, MongoDB
-- **Cloud Platforms**: AWS (S3, Redshift, Lambda), Google Cloud (BigQuery)
-- **Data Visualization**: Tableau, Power BI
----
-
-## 📈 Data Engineering Projects
-- **[Project Name](#)**: A short description of a data pipeline or ETL project you worked on.
-- **[Project Name](#)**: Insights derived from large datasets and their impact on business decision-making.
-- **[Project Name](#)**: Implementation of a real-time data processing system using Apache Kafka.
+- **Programming Languages**: Python, SQL
+- **Data Technologies**: Snowflake, Databricks, Airflow
+- **Databases**: PostgreSQL, MySQL, MongoDB, Oracle, 
+- **Cloud Platforms**: Azure DevOps, AWS S3, Google Cloud 
+- **Data Visualization**: Streamlit, Power BI
 ---
 
 ## 📫 Let's Connect!
